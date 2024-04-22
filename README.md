@@ -22,4 +22,5 @@ Possui interface grafica basica
 - Para salvar a lista de clientes em um arquivo de texto, clique no botão "Salvar".
 
 # Print de execução:
-![Uploading imagem_2024-04-22_014000874.png…]()
+![Captura de tela 2024-04-22 013932](https://github.com/Krlos-G/Interface_Grafica/assets/136604221/c50b8962-ff2d-4d30-827b-2303a5866abc)
+
